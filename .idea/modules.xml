@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NavDrawerExample/NavDrawerExample.iml" filepath="$PROJECT_DIR$/NavDrawerExample/NavDrawerExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NavigationExample.iml" filepath="$PROJECT_DIR$/NavigationExample.iml" />
+    </modules>
+  </component>
+</project>
+
